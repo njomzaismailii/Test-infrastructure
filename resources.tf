@@ -1,7 +1,6 @@
 
 provider "aws" {
   region = "eu-central-1"  # AWS region (Frankfurt)
-  profile = "default"
 }
 
 # Create the VPC
